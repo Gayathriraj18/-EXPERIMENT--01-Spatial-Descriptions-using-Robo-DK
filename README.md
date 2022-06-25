@@ -149,13 +149,9 @@ Prog1()
 
 
 ### SIMULATION RESULTS :
-Move C
 ![output](k5.png)
-MoveL
 ![output](k6.png)
-MoveL
 ![output](k7.png)
-Move C
 ![output](k8.png)
 
 
